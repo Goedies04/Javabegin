@@ -17,7 +17,7 @@ void setup(){
            cp = new ControlP5(this);
             knop1 = cp.addButton("Knop1")
                .setSize(50,50)
-               .setPosition(300,100)
+               .setPosition(500,100)
                .setColorLabel(color(0,0,0))
                .setColorBackground(color(60,20,255))
                .setCaptionLabel("HIER");
